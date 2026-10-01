@@ -1,0 +1,8 @@
+# course data and caches
+*.json
+*.sqlite
+data/
+.ipynb_checkpoints/
+
+# original submission notebooks (contain student details); the cleaned copy is in notebooks/
+Chang_William_*.ipynb
